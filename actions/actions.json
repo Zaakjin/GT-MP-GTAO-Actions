@@ -1,0 +1,814 @@
+[
+  {
+    "Name": "The Bird",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger",
+      "Name": "enter",
+      "Length": 1400
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger",
+      "Name": "idle_a",
+      "Length": 1500
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger",
+      "Name": "exit",
+      "Length": 1767
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@finger",
+      "Name": "finger",
+      "Length": 7200
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@finger",
+      "Name": "finger",
+      "Length": 4500
+    }
+  },
+  {
+    "Name": "Rock",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperrock",
+      "Name": "enter",
+      "Length": 1133
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperrock",
+      "Name": "idle_a",
+      "Length": 1500
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperrock",
+      "Name": "exit",
+      "Length": 1100
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@rock",
+      "Name": "rock",
+      "Length": 3167
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@rock",
+      "Name": "rock",
+      "Length": 3167
+    }
+  },
+  {
+    "Name": "Salute",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intuppersalute",
+      "Name": "enter",
+      "Length": 500
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intuppersalute",
+      "Name": "idle_a",
+      "Length": 3000
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intuppersalute",
+      "Name": "exit",
+      "Length": 1833
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@salute",
+      "Name": "salute",
+      "Length": 3067
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@salute",
+      "Name": "salute",
+      "Length": 3067
+    }
+  },
+  {
+    "Name": "Jerk",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperwank",
+      "Name": "enter",
+      "Length": 667
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperwank",
+      "Name": "idle_a",
+      "Length": 433
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperwank",
+      "Name": "exit",
+      "Length": 1233
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@wank",
+      "Name": "wank",
+      "Length": 2667
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@wank",
+      "Name": "wank",
+      "Length": 2667
+    }
+  },
+  {
+    "Name": "Blow Kiss",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperblow_kiss",
+      "Name": "enter",
+      "Length": 600
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperblow_kiss",
+      "Name": "idle_a",
+      "Length": 900
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperblow_kiss",
+      "Name": "exit",
+      "Length": 1867
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@blow_kiss",
+      "Name": "blow_kiss",
+      "Length": 5033
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@blow_kiss",
+      "Name": "blow_kiss",
+      "Length": 5900
+    }
+  },
+  {
+    "Name": "Air Thrusting",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_shagging",
+      "Name": "enter",
+      "Length": 1267
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_shagging",
+      "Name": "idle_a",
+      "Length": 533
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_shagging",
+      "Name": "exit",
+      "Length": 933
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@air_shagging",
+      "Name": "air_shagging",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@air_shagging",
+      "Name": "air_shagging",
+      "Length": 7400
+    }
+  },
+  {
+    "Name": "Dock",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperdock",
+      "Name": "enter",
+      "Length": 1733
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperdock",
+      "Name": "idle_a",
+      "Length": 2000
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperdock",
+      "Name": "exit",
+      "Length": 2467
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@dock",
+      "Name": "dock",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@dock",
+      "Name": "dock",
+      "Length": 7200
+    }
+  },
+  {
+    "Name": "Knuckle Crunch",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperknuckle_crunch",
+      "Name": "enter",
+      "Length": 2033
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperknuckle_crunch",
+      "Name": "idle_a",
+      "Length": 2467
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperknuckle_crunch",
+      "Name": "exit",
+      "Length": 1133
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@knuckle_crunch",
+      "Name": "knuckle_crunch",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@knuckle_crunch",
+      "Name": "knuckle_crunch",
+      "Length": 7567
+    }
+  },
+  {
+    "Name": "Slow Clap",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperslow_clap",
+      "Name": "enter",
+      "Length": 1067
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperslow_clap",
+      "Name": "idle_a",
+      "Length": 1500
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperslow_clap",
+      "Name": "exit",
+      "Length": 1400
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@slow_clap",
+      "Name": "slow_clap",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@slow_clap",
+      "Name": "slow_clap",
+      "Length": 7900
+    }
+  },
+  {
+    "Name": "Face Palm",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperface_palm",
+      "Name": "enter",
+      "Length": 1100
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperface_palm",
+      "Name": "idle_a",
+      "Length": 5700
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperface_palm",
+      "Name": "exit",
+      "Length": 2667
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@face_palm",
+      "Name": "face_palm",
+      "Length": 8467
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@face_palm",
+      "Name": "face_palm",
+      "Length": 7167
+    }
+  },
+  {
+    "Name": "Thumbs Up",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumbs_up",
+      "Name": "enter",
+      "Length": 1367
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumbs_up",
+      "Name": "idle_a",
+      "Length": 1967
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumbs_up",
+      "Name": "exit",
+      "Length": 1967
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@thumbs_up",
+      "Name": "thumbs_up",
+      "Length": 6800
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@thumbs_up",
+      "Name": "thumbs_up",
+      "Length": 7033
+    }
+  },
+  {
+    "Name": "Jazz Hands",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperjazz_hands",
+      "Name": "enter",
+      "Length": 767
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperjazz_hands",
+      "Name": "idle_a",
+      "Length": 1200
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperjazz_hands",
+      "Name": "exit",
+      "Length": 667
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@jazz_hands",
+      "Name": "jazz_hands",
+      "Length": 6200
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@jazz_hands",
+      "Name": "jazz_hands",
+      "Length": 7400
+    }
+  },
+  {
+    "Name": "Nose Pick",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intuppernose_pick",
+      "Name": "enter",
+      "Length": 933
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intuppernose_pick",
+      "Name": "idle_a",
+      "Length": 667
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intuppernose_pick",
+      "Name": "exit",
+      "Length": 2300
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@nose_pick",
+      "Name": "nose_pick",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@nose_pick",
+      "Name": "nose_pick",
+      "Length": 7400
+    }
+  },
+  {
+    "Name": "Air Guitar",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_guitar",
+      "Name": "enter",
+      "Length": 1233
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_guitar",
+      "Name": "idle_a",
+      "Length": 2900
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_guitar",
+      "Name": "exit",
+      "Length": 1200
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@air_guitar",
+      "Name": "air_guitar",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@air_guitar",
+      "Name": "air_guitar",
+      "Length": 7400
+    }
+  },
+  {
+    "Name": "Wave",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperwave",
+      "Name": "enter",
+      "Length": 1133
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperwave",
+      "Name": "idle_a",
+      "Length": 1067
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperwave",
+      "Name": "exit",
+      "Length": 1400
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@wave",
+      "Name": "wave",
+      "Length": 7233
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@wave",
+      "Name": "wave",
+      "Length": 8267
+    }
+  },
+  {
+    "Name": "Surrender",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intuppersurrender",
+      "Name": "enter",
+      "Length": 833
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intuppersurrender",
+      "Name": "idle_a",
+      "Length": 5500
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intuppersurrender",
+      "Name": "exit",
+      "Length": 1500
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@surrender",
+      "Name": "surrender",
+      "Length": 5667
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@surrender",
+      "Name": "surrender",
+      "Length": 7833
+    }
+  },
+  {
+    "Name": "Shush",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intuppershush",
+      "Name": "enter",
+      "Length": 1000
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intuppershush",
+      "Name": "idle_a",
+      "Length": 3900
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intuppershush",
+      "Name": "exit",
+      "Length": 1600
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@shush",
+      "Name": "shush",
+      "Length": 7000
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@shush",
+      "Name": "shush",
+      "Length": 7000
+    }
+  },
+  {
+    "Name": "Photography",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperphotography",
+      "Name": "enter",
+      "Length": 1567
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperphotography",
+      "Name": "idle_a",
+      "Length": 5000
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperphotography",
+      "Name": "exit",
+      "Length": 1933
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@photography",
+      "Name": "photography",
+      "Length": 8200
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@photography",
+      "Name": "photography",
+      "Length": 8167
+    }
+  },
+  {
+    "Name": "DJ",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperdj",
+      "Name": "enter",
+      "Length": 2000
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperdj",
+      "Name": "idle_a",
+      "Length": 3833
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperdj",
+      "Name": "exit",
+      "Length": 2167
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@dj",
+      "Name": "dj",
+      "Length": 10667
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@dj",
+      "Name": "dj",
+      "Length": 10667
+    }
+  },
+  {
+    "Name": "Air Synth",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_synth",
+      "Name": "enter",
+      "Length": 667
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_synth",
+      "Name": "idle_a",
+      "Length": 4933
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperair_synth",
+      "Name": "exit",
+      "Length": 1533
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@air_synth",
+      "Name": "air_synth",
+      "Length": 8500
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@air_synth",
+      "Name": "air_synth",
+      "Length": 8600
+    }
+  },
+  {
+    "Name": "No Way",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperno_way",
+      "Name": "enter",
+      "Length": 767
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperno_way",
+      "Name": "idle_a",
+      "Length": 1367
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperno_way",
+      "Name": "exit",
+      "Length": 967
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@no_way",
+      "Name": "no_way",
+      "Length": 6000
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@no_way",
+      "Name": "no_way",
+      "Length": 7267
+    }
+  },
+  {
+    "Name": "Chicken Taunt",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperchicken_taunt",
+      "Name": "enter",
+      "Length": 633
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperchicken_taunt",
+      "Name": "idle_a",
+      "Length": 1200
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperchicken_taunt",
+      "Name": "exit",
+      "Length": 1433
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@chicken_taunt",
+      "Name": "chicken_taunt",
+      "Length": 7300
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@chicken_taunt",
+      "Name": "chicken_taunt",
+      "Length": 7500
+    }
+  },
+  {
+    "Name": "Chin Brush",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperchin_brush",
+      "Name": "enter",
+      "Length": 967
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperchin_brush",
+      "Name": "idle_a",
+      "Length": 933
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperchin_brush",
+      "Name": "exit",
+      "Length": 2167
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@chin_brush",
+      "Name": "chin_brush",
+      "Length": 6367
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@chin_brush",
+      "Name": "chin_brush",
+      "Length": 7400
+    }
+  },
+  {
+    "Name": "Finger Kiss",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger_kiss",
+      "Name": "enter",
+      "Length": 900
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger_kiss",
+      "Name": "idle_a",
+      "Length": 900
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperfinger_kiss",
+      "Name": "exit",
+      "Length": 1667
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@finger_kiss",
+      "Name": "finger_kiss",
+      "Length": 6200
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@finger_kiss",
+      "Name": "finger_kiss",
+      "Length": 4133
+    }
+  },
+  {
+    "Name": "Peace",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperpeace",
+      "Name": "enter",
+      "Length": 1933
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperpeace",
+      "Name": "idle_a",
+      "Length": 5433
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperpeace",
+      "Name": "exit",
+      "Length": 2133
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@peace",
+      "Name": "peace",
+      "Length": 6233
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@peace",
+      "Name": "peace",
+      "Length": 7767
+    }
+  },
+  {
+    "Name": "You Loco",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperyou_loco",
+      "Name": "enter",
+      "Length": 1533
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperyou_loco",
+      "Name": "idle_a",
+      "Length": 1300
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperyou_loco",
+      "Name": "exit",
+      "Length": 933
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@you_loco",
+      "Name": "you_loco",
+      "Length": 6700
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@you_loco",
+      "Name": "you_loco",
+      "Length": 7367
+    }
+  },
+  {
+    "Name": "Freakout",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperfreakout",
+      "Name": "enter",
+      "Length": 1733
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperfreakout",
+      "Name": "idle_a",
+      "Length": 4633
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperfreakout",
+      "Name": "exit",
+      "Length": 1667
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@freakout",
+      "Name": "freakout",
+      "Length": 7033
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@freakout",
+      "Name": "freakout",
+      "Length": 7567
+    }
+  },
+  {
+    "Name": "Thumbs on Ears",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumb_on_ears",
+      "Name": "enter",
+      "Length": 667
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumb_on_ears",
+      "Name": "idle_a",
+      "Length": 2367
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperthumb_on_ears",
+      "Name": "exit",
+      "Length": 1133
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@thumb_on_ears",
+      "Name": "thumb_on_ears",
+      "Length": 7400
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@thumb_on_ears",
+      "Name": "thumb_on_ears",
+      "Length": 7567
+    }
+  },
+  {
+    "Name": "V Sign",
+    "UpperEnterAnimation": {
+      "Dictionary": "anim@mp_player_intupperv_sign",
+      "Name": "enter",
+      "Length": 2133
+    },
+    "UpperLoopAnimation": {
+      "Dictionary": "anim@mp_player_intupperv_sign",
+      "Name": "idle_a",
+      "Length": 4767
+    },
+    "UpperExitAnimation": {
+      "Dictionary": "anim@mp_player_intupperv_sign",
+      "Name": "exit",
+      "Length": 2767
+    },
+    "FemaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationfemale@v_sign",
+      "Name": "v_sign",
+      "Length": 8333
+    },
+    "MaleCelebAnimation": {
+      "Dictionary": "anim@mp_player_intcelebrationmale@v_sign",
+      "Name": "v_sign",
+      "Length": 7967
+    }
+  }
+]

@@ -1,0 +1,7 @@
+﻿<meta>
+  <info name="Online Actions" author="Zaakjin" type="script" async="true" />
+  <assembly ref="Newtonsoft.Json.dll" />
+  <script src="Actions.cs" type="server" lang="csharp" />
+  <script src="Helper.cs" type="server" lang="csharp" />
+  <script src="Actions.js" type="client" lang="javascript" />
+</meta>
